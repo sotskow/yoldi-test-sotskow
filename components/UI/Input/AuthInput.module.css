@@ -1,0 +1,30 @@
+.input {
+    max-width: 330px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.input_field {
+    width: 100%;
+    height: 50px;
+    padding: 12px 55px;
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+    size: 220px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.input_field:focus {
+    border-color: #838383;
+    outline: #838383;
+}
+
+@media (max-width: 480px) {
+    .input {
+        display: flex;
+        justify-content: center;
+    }
+}
