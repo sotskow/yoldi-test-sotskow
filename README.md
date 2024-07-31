@@ -1,6 +1,7 @@
 # Задача
 
-## Сделать фронтенд для сайта «Профиль в Yoldi»**
+## Сделать фронтенд для сайта «Профиль в Yoldi»
+
 
 Почти в каждом нашем проекте есть вход, регистрация и профиль пользователя. 
 Поэтому в тестовом задании будут как раз эти страницы.
@@ -15,6 +16,6 @@
 
 1. NextJS и useSWR
 
-2. Ссылка на код на GitHub: 
+2. Ссылка на код на GitHub: https://github.com/sotskow/yoldi-test
 
-3. Ссылка на Vercel с проектом: https://yoldi-qbicr.vercel.app
+3. Ссылка на Vercel с проектом: https://yoldi-test-5o8zni2z9-sotskov-nikitas-projects-c834fb7f.vercel.app/users
