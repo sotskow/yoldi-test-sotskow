@@ -18,4 +18,4 @@
 
 2. Ссылка на код на GitHub: https://github.com/sotskow/yoldi-test
 
-3. Ссылка на Vercel с проектом: https://yoldi-test-5o8zni2z9-sotskov-nikitas-projects-c834fb7f.vercel.app/users
+3. Ссылка на Vercel с проектом: https://yoldi-test.vercel.app/users
